@@ -53,6 +53,11 @@ This project utilizes multimodal data (text and images) to develop a robust clas
 - **Effectiveness of Hybrid Fusion**: By integrating both early and late techniques, Hybrid Fusion captures a wider array of features, leading to more robust and accurate predictions.
 - **Impact of Multimodality**: The use of both text and image modalities improves the model’s ability to classify content, leveraging unique strengths from each data type.
 
+## Deployment Visuals
+<img width="959" alt="mmal1" src="https://github.com/user-attachments/assets/38232462-e769-416f-afa4-93c789717890">
+<img width="959" alt="mmal2" src="https://github.com/user-attachments/assets/f07c3a32-1234-4513-a705-27a8a9905966">
+
+
 ## Setup and Installation
 
 1. Clone the repository:
