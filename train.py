@@ -140,8 +140,8 @@ def run_experiment(fusion_type, train_loader, test_loader, device):
     loss_fn = nn.CrossEntropyLoss().to(device)
 
     # Training
-    for epoch in range(5):
-        print(f"Epoch {epoch + 1}/5")
+    for epoch in range(10):
+        print(f"Epoch {epoch + 1}/10")
         train_acc, train_loss = train_epoch(model, train_loader, loss_fn, optimizer, device)
         print(f"Train loss {train_loss}, accuracy {train_acc}")
 
